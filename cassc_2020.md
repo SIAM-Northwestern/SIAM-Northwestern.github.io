@@ -7,8 +7,8 @@ nav_order: 2
 # Chicago Area SIAM Student Conference 2020
 
 
-The SIAM student chapters at Northwestern, University of Illinois at Chicago and Illinois Institute of Technology  are pleased to announce
-the 2020 Chicago Area SIAM Student Conference (CASSC). 
+The SIAM student chapters at Northwestern, University of Illinois at Chicago and Illinois Institute of Technology are pleased to announce
+the 2020 Chicago Area SIAM Student Conference (CASSC), held virtually this year. 
 
 **Dates**  November 5th and 6th, 2020 12-4pm. 
 
