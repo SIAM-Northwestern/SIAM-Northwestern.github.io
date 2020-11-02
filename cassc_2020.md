@@ -17,6 +17,8 @@ Registration for talks are currently closed. You may register [here](https://doc
 
 ### Schedule
 
+![](cassc_schedule.jpg)
 
 
-Click here to know more about our plenary speakers.
+
+Click [here](https://siam-northwestern.github.io/cassc_plenary.html) to know more about our plenary speakers.
