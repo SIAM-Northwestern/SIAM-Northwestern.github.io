@@ -10,7 +10,13 @@ nav_order: 2
 The SIAM student chapters at Northwestern, University of Illinois at Chicago and Illinois Institute of Technology  are pleased to announce
 the 2020 Chicago Area SIAM Student Conference (CASSC). 
 
-Dates 
-Registration for talks are currently closed. You ma
+**Dates**  November 5th and 6th, 2020 12-4pm. 
+
+Registration for talks are currently closed. You may register [here](https://docs.google.com/forms/d/e/1FAIpQLScw7zZ8elsOjRaIRuPm_mu4A2JmqNomRlRc-hxNqIWTKA8dHw/viewform) to be a participant.
+
 
 ### Schedule
+
+
+
+Click here to know more about our plenary speakers.
