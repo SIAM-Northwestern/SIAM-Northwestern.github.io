@@ -13,3 +13,8 @@ which aims to be a low stakes place where one can discuss and brainstorm their o
 ### Multiverse Analyis in R - Abhraneel Sarma (Northwestern CS)
 
 [![Alternate Text](pages/multiverse.jpg)](https://www.youtube.com/watch?v=Vk8Xz24ptyI "Multiverse Analyis in R")
+
+
+### Introduction to Julia - Thomas Stiadle (Northwestern ESAM)
+
+[![Alternate Text](pages/julia_talk.jpg)](https://www.youtube.com/watch?v=QE4ASEIPSLU "Introduction to Julia")
