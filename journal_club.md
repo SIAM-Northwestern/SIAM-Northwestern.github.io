@@ -10,6 +10,14 @@ nav_order: 2
 At ESAM, we have the SIAM applied math journal club which is a student-run seminar
 which aims to be a low stakes place where one can discuss and brainstorm their own research, request tutorials on topics and explore new topics with others. These are some of the talks we have had.
 
+## Spring 2022 - Sampling Methods
+
+### Explaining the Gibbs Sampler - Eric Johnson
+
+[![Alternate Text](pages/gibbs.jpg)](https://www.youtube.com/watch?v=1mWcsXGJ0cc "Explaining the Gibbs Sampler")
+
+## Fall 2021
+
 ### Multiverse Analyis in R - Abhraneel Sarma (Northwestern CS)
 
 [![Alternate Text](pages/multiverse.jpg)](https://www.youtube.com/watch?v=Vk8Xz24ptyI "Multiverse Analyis in R")
