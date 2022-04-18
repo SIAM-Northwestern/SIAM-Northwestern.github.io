@@ -14,7 +14,7 @@ which aims to be a low stakes place where one can discuss and brainstorm their o
 
 ### Explaining the Gibbs Sampler - Eric Johnson
 
-[![Alternate Text](pages/gibbs.jpg)](https://www.youtube.com/watch?v=1mWcsXGJ0cc "Explaining the Gibbs Sampler")
+[![Alternate Text](pages/gibbs.jpg)](https://www.youtube.com/watch?v=1mWcsXGJ0cc&t=0s "Explaining the Gibbs Sampler")
 
 ## Fall 2021
 
