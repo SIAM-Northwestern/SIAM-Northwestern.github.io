@@ -14,7 +14,12 @@ which aims to be a low stakes place where one can discuss and brainstorm their o
 
 ### Explaining the Gibbs Sampler - Eric Johnson
 
-[![Alternate Text](pages/gibbs.jpg)](https://www.youtube.com/watch?v=1mWcsXGJ0cc&t=0s "Explaining the Gibbs Sampler")
+[![Alternate Text](pages/gibbs.jpg)](https://www.youtube.com/watch?v=AyIAWDLnHzc&t=0s "Explaining the Gibbs Sampler")
+
+
+### MCMC with Hamiltonian dynamics - Sungsoo Lim
+
+[![Alternate Text](pages/hamiltony.jpg)](https://www.youtube.com/watch?v=1mWcsXGJ0cc&t=0s "MCMC with Hamiltonian dynamic")
 
 ## Fall 2021
 
