@@ -19,7 +19,12 @@ which aims to be a low stakes place where one can discuss and brainstorm their o
 
 ### MCMC with Hamiltonian dynamics - Sungsoo Lim
 
-[![Alternate Text](pages/hamiltony.jpg)](https://www.youtube.com/watch?v=1mWcsXGJ0cc&t=0s "MCMC with Hamiltonian dynamic")
+[![Alternate Text](pages/hamiltony.jpg)](https://www.youtube.com/watch?v=1mWcsXGJ0cc&t=0s "MCMC with Hamiltonian dynamics")
+
+
+### Robust cluster assignment for pain data- Gary Nave
+
+[![Alternate Text](pages/nave.jpg)](https://www.youtube.com/watch?v=2LIoEph4mil "Robust cluster assignment for pain data")
 
 ## Fall 2021
 
