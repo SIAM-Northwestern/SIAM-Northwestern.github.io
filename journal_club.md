@@ -24,7 +24,7 @@ which aims to be a low stakes place where one can discuss and brainstorm their o
 
 ### Robust cluster assignment for pain data- Gary Nave
 
-[![Alternate Text](pages/nave.jpg)](https://www.youtube.com/watch?v=2LIoEph4mil "Robust cluster assignment for pain data")
+[![Alternate Text](pages/nave.jpg)](https://www.youtube.com/watch?v=2LIoEph4miI "Robust cluster assignment for pain data")
 
 ## Fall 2021
 
