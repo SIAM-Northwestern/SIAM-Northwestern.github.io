@@ -25,3 +25,6 @@ nav_order: 5
 
 # Faculty Advisor
 Adilson Motter, Department of Physics and Astronomy
+
+# Past Officers
+* Jithin George
