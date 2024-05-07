@@ -1,7 +1,7 @@
 ---
 title: CASSC 2020 
 has_children: true
-nav_order: 2
+nav_order: 3
 ---
 
 # Chicago Area SIAM Student Conference 2020

@@ -1,7 +1,7 @@
 ---
 title: SIAM Journal Club 
 has_children: false
-nav_order: 2
+nav_order: 1
 ---
 
 # SIAM Applied Math Journal Club at Northwestern
