@@ -1,10 +1,10 @@
 ---
-title: Leadership
+title: People
 has_children: false
 nav_order: 5
 ---
 
-# Chapter Leadership
+# NU Chapter SIAM Officers
 **President:** Siqiao Mu
 
 **Vice President:** Ana Barioni
@@ -22,3 +22,6 @@ nav_order: 5
 **Undergraduate Representative:** Aditi Ladda
 
 **Conference Chairs:** Christina Catlett and Elisheva Siegfried
+
+# Faculty Advisor
+Adilson Motter, Department of Physics and Astronomy
