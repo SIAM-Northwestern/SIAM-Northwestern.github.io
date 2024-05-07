@@ -4,4 +4,4 @@ SIAM Northwestern is a place where Northwestern students can get to know more ab
 
 Our main events through the academic year are the Chicago Area SIAM Student conference and the Bridging the Gap Seminar Series. We also sponsor the student-run Applied Math Journal club in the Engineering Sciences and Applied Mathematics department.
 
-![](pages/nu.png) ![](pages/logo.jpg)
+![](pages/logo.jpg)
