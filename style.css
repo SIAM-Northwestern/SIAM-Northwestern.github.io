@@ -312,7 +312,7 @@ html {
     flex-direction: column;
     gap: 10px;
     font-size: clamp(1rem, 3vw, 2rem);
-    width: clamp(450px, 80vw, 60%);
+    width: 90%;
     margin-bottom: 2rem;
     text-align: left;
 }
@@ -758,6 +758,10 @@ html {
     .officers {
         display: grid; 
         grid-template-columns: repeat(6, 1fr);
+    }
+
+    .conference-info {
+        width: 700px;
     }
 }
 
