@@ -67,6 +67,7 @@ html {
 .underline {
     text-decoration: underline solid 1px var(--purple-main-0);
     color: var(--purple-main-0);
+    font-size: inherit;
 }
 
 .underline:hover {
