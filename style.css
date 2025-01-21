@@ -299,12 +299,21 @@ html {
 .conference {
     color: var(--purple-main-0);
     font-family: var(--title-type);
-    font-size: clamp(3rem, 15vw, 9rem);
+    font-size: clamp(3rem, 15vw, 6rem);
+}
+
+.conference-slightly-larger {
+    font-size: 2rem;
 }
 
 .conference-info {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
     font-size: clamp(1rem, 3vw, 2rem);
-    padding-bottom: 2rem;
+    width: clamp(450px, 80vw, 60%);
+    margin-bottom: 2rem;
+    text-align: left;
 }
 
 .conference-words {
