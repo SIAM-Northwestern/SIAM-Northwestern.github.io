@@ -287,7 +287,6 @@ html {
 
 /* CONFERENCE PAGE */
 .conference-container {
-    height: 100vh;
     background-color: var(--green-shade-a);
     text-align: center;
     padding: 0 3rem;
@@ -295,6 +294,7 @@ html {
     display: flex;
     align-items: center;
     justify-content: center;
+    flex-direction: column;
 }
 
 .conference {
