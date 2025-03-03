@@ -287,21 +287,22 @@ html {
 
 /* CONFERENCE PAGE */
 .conference-container {
-    height: 100vh;
+    min-height: 100vh;
     background-color: var(--green-shade-a);
-    text-align: center;
-    padding: 0 3rem;
+    text-align: justify;
+    padding: 1rem 1rem;
     position: relative;
     display: flex;
     align-items: center;
     justify-content: center;
-    flex-direction: column;
 }
 
 .conference {
     color: var(--purple-main-0);
     font-family: var(--title-type);
-    font-size: clamp(3rem, 15vw, 6rem);
+    font-size: clamp(3rem, 15vw, 4rem);
+    text-align: center;
+    padding-top: 1rem;
 }
 
 .conference-slightly-larger {
@@ -313,12 +314,12 @@ html {
     flex-direction: column;
     gap: 10px;
     font-size: clamp(1rem, 3vw, 2rem);
-    width: 90%;
-    margin-bottom: 2rem;
-    text-align: left;
+    margin-bottom: 3rem;
+    text-align: justify;
 }
 
 .conference-words {
+    margin-top: 2rem;
     position: relative;
     z-index: 4;
 }
@@ -333,6 +334,25 @@ html {
     font-size: 1rem;
     margin-bottom: 1rem;
     width: 75vw;
+}
+
+.tab-in {
+    margin-top: 10px;
+    position: relative;
+    left: 5vw;
+}
+
+.color-purple {
+    font-size: inherit;
+    color: var(--purple-main-0)
+}
+
+.buttons-conference{
+    display: flex;
+    gap: 20px;
+    position: relative;
+    z-index: 10;
+    padding-bottom: 1rem;
 }
 
 .CC-01 {
@@ -373,6 +393,38 @@ html {
     background-color: var(--red-tint-b);
     top: 25vh;
     left: 25vw;
+}
+
+/* SCHEDULE PAGE */
+
+.schedule-body-container {
+    display: grid;
+    margin: 1rem 3rem;
+    gap: 10px;
+}
+
+.schedule-words {
+    position: relative;
+    z-index: 4;
+}
+
+.boldface {
+    font-weight: bold;
+}
+
+.time {
+    justify-self: left;
+}
+
+.schedule-body-container div {
+    width: 100%;
+    border-radius: 10px;
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid var(--black);
+    color: var(--black)
 }
 
 /* EVENTS PAGE */
@@ -721,6 +773,18 @@ html {
         left: calc(50vw + 0.5*(25px + var(--circle-size)));
         top: calc(var(--circle-size) + 10px);
     }
+
+    .schedule-body-container {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .schedule-body-container div:nth-child(even) {
+        background-color: var(--white);
+    }
+
+    .schedule-body-container div:nth-child(odd) {
+        background-color: var(--lightest-grey);
+    }
 }
 
 @media (min-width: 600px){
@@ -762,7 +826,7 @@ html {
     }
 
     .conference-info {
-        width: 700px;
+        max-width: 900px;
     }
 }
 
@@ -789,5 +853,18 @@ html {
 
     .events-container {
         grid-template-columns: repeat(2, 1fr);
+    }
+
+    .schedule-body-container {
+        grid-template-columns: 1fr 4fr;
+        column-gap: 15px;
+    }
+
+    .schedule-body-container div:nth-child(4n+1), .schedule-body-container div:nth-child(4n) {
+        background-color: var(--white);
+    }
+    
+    .schedule-body-container div:nth-child(4n-1),.schedule-body-container div:nth-child(4n) {
+        background-color: var(--lightest-grey);
     }
 }
