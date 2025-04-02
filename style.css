@@ -835,12 +835,16 @@ html {
         grid-template-columns: repeat(1, 1fr);
     }
 
-    .schedule-body-container div:nth-child(even) {
+    .schedule-body-container div:nth-child(n) {
         background-color: var(--white);
     }
 
-    .schedule-body-container div:nth-child(odd) {
+    .schedule-body-container div:nth-child(3n+1) {
         background-color: var(--lightest-grey);
+    }
+
+    .room {
+        margin-bottom: 2rem;
     }
 }
 
@@ -913,15 +917,19 @@ html {
     }
 
     .schedule-body-container {
-        grid-template-columns: 1fr 4fr;
+        grid-template-columns: 1fr 4fr 0.5fr;
         column-gap: 15px;
     }
 
-    .schedule-body-container div:nth-child(4n+1), .schedule-body-container div:nth-child(4n) {
+    .schedule-body-container div:nth-child(n) {
         background-color: var(--white);
     }
-    
-    .schedule-body-container div:nth-child(4n-1),.schedule-body-container div:nth-child(4n) {
+
+    .schedule-body-container div:nth-child(6n+1),  .schedule-body-container div:nth-child(6n+2), .schedule-body-container div:nth-child(6n+3){
         background-color: var(--lightest-grey);
+    }
+
+    .room {
+        margin-bottom: 0rem;
     }
 }
