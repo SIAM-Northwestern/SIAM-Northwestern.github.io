@@ -353,6 +353,7 @@ html {
     position: relative;
     z-index: 10;
     padding-bottom: 1rem;
+    flex-direction: column;
 }
 
 .CC-01 {
@@ -393,6 +394,14 @@ html {
     background-color: var(--red-tint-b);
     top: 25vh;
     left: 25vw;
+}
+
+.schedule-body-container div:nth-child(n) {
+    background-color: var(--white);
+}
+
+.schedule-body-container div:nth-child(6n+1),  .schedule-body-container div:nth-child(6n+2), .schedule-body-container div:nth-child(6n+3){
+    background-color: var(--lightest-grey);
 }
 
 /* SCHEDULE PAGE */
@@ -886,8 +895,8 @@ html {
         grid-template-columns: repeat(6, 1fr);
     }
 
-    .conference-info {
-        max-width: 900px;
+    .buttons-conference {
+        flex-direction: row;
     }
 }
 
